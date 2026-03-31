@@ -87,8 +87,8 @@ Python • C++ • SQL • Bash
 ---
 
 ## 📫 Connect With Me  
-📧 Email: chamelihansanaherath@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/chamelihansana  
+📧 Email: [chamelihansanaherath@gmail.com](mailto:chamelihansanaherath@gmail.com)  
+💼 LinkedIn: [chamelihansana](https://www.linkedin.com/in/chamelihansana) 
 
 ---
 
