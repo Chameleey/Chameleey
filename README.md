@@ -3,7 +3,7 @@
 <h1 style="color:#0A1F44;">👩‍💻 Chameli Herath</h1>
 
 <h3 style="color:#0A1F44;">
-Cybersecurity Undergraduate | Ethical Hacking • Digital Forensics • Risk Analysis  
+Cybersecurity Undergraduate | Network Security • Digital Forensics • Risk Analysis  
 </h3>
 
 <p style="color:#0A1F44;">🛡️ <b>Future Security Analyst</b></p>
